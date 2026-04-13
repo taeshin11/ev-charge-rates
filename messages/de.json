@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "networks": "Netzwerke",
+    "vehicles": "Fahrzeuge",
+    "states": "Bundesstaaten",
+    "calculator": "Rechner",
+    "tagline": "E-Auto Ladepreise & Geschwindigkeiten"
+  },
+  "home": {
+    "hero_title": "E-Auto Ladepreise aller Netzwerke vergleichen",
+    "hero_subtitle": "Finden Sie das günstigste Laden für Ihr Elektrofahrzeug — nach Netzwerk, Bundesstaat und Fahrzeugtyp.",
+    "cta_compare": "Netzwerke vergleichen",
+    "cta_calculate": "Kosten berechnen",
+    "section_networks": "Wichtigste Ladenetzwerke",
+    "section_calculator": "Ladekostenrechner",
+    "section_states": "Ladestationen nach Bundesstaat",
+    "faq_title": "Häufig gestellte Fragen",
+    "faq_q1": "Welches E-Auto-Ladenetzwerk ist am günstigsten?",
+    "faq_a1": "Tesla Supercharger bietet wettbewerbsfähige Preise von $0,25/kWh für Nicht-Tesla-Fahrzeuge.",
+    "faq_q2": "Was ist DC-Schnellladen?",
+    "faq_a2": "DC-Schnellladen liefert Strom direkt als Gleichstrom an die Batterie und ermöglicht Geschwindigkeiten von 50-350 kW.",
+    "faq_q3": "Was ist der Unterschied zwischen NACS und CCS?",
+    "faq_a3": "NACS ist Teslas Stecker, der jetzt von den meisten Herstellern übernommen wurde. CCS ist der ältere Standard für viele E-Autos.",
+    "faq_q4": "Was kostet das Laden eines E-Autos von 10% auf 80%?",
+    "faq_a4": "Die Kosten variieren je nach Batteriegröße und Netzwerk. Nutzen Sie unseren Rechner für genaue Zahlen.",
+    "faq_q5": "Welches E-Auto-Netzwerk hat die meisten Stationen?",
+    "faq_a5": "ChargePoint ist das größte Netzwerk mit über 25.000 Ladestandorten in den USA."
+  },
+  "networks": {
+    "title": "E-Auto-Ladenetzwerke",
+    "subtitle": "Preise, Geschwindigkeiten und Abdeckung der wichtigsten US-Ladenetzwerke vergleichen",
+    "price_kwh": "Preis/kWh",
+    "price_min": "Preis/Min",
+    "max_speed": "Höchstgeschwindigkeit",
+    "stations": "Stationen",
+    "connectors": "Stecker",
+    "membership": "Mitgliedschaft",
+    "required": "Erforderlich",
+    "not_required": "Nicht erforderlich",
+    "view_details": "Details anzeigen",
+    "type": "Typ",
+    "coverage": "Abdeckung"
+  },
+  "vehicles": {
+    "title": "E-Auto-Ladeleitfaden nach Fahrzeug",
+    "subtitle": "Ladekosten und kompatible Netzwerke für Ihr Elektrofahrzeug finden",
+    "battery": "Batterie",
+    "range": "Reichweite",
+    "max_charging": "Max. Laden",
+    "port": "Anschluss",
+    "charge_time": "Ladezeit (10-80%)",
+    "view_guide": "Ladeleitfaden anzeigen",
+    "compatible_networks": "Kompatible Netzwerke",
+    "cost_to_charge": "Ladekosten (10-80%)"
+  },
+  "states": {
+    "title": "E-Auto-Ladestationen nach Bundesstaat",
+    "subtitle": "Ladeinfrastruktur und Strompreise in allen 50 Bundesstaaten",
+    "state": "Bundesstaat",
+    "stations": "Stationen",
+    "avg_rate": "Durchschnittlicher Strompreis",
+    "view_state": "Bundesstaat anzeigen"
+  },
+  "calculator": {
+    "title": "E-Auto-Ladekostenrechner",
+    "subtitle": "Berechnen Sie genau, was das Laden Ihres E-Autos bei jedem Netzwerk kostet",
+    "select_vehicle": "Fahrzeug auswählen",
+    "select_network": "Netzwerk auswählen",
+    "start_percent": "Startladung (%)",
+    "end_percent": "Zielladung (%)",
+    "calculate": "Kosten berechnen",
+    "estimated_cost": "Geschätzte Kosten",
+    "estimated_time": "Geschätzte Zeit",
+    "cost_per_mile": "Kosten pro Meile",
+    "kwh_needed": "Benötigte kWh",
+    "results_title": "Alle Netzwerke im Vergleich",
+    "minutes": "Minuten"
+  },
+  "footer": {
+    "disclaimer": "Preise sind Schätzungen und können je nach Standort und Zeitpunkt variieren.",
+    "visitors_today": "Besucher heute",
+    "total_visitors": "Besucher gesamt",
+    "rights": "Alle Rechte vorbehalten.",
+    "links_networks": "Netzwerke",
+    "links_vehicles": "Fahrzeuge",
+    "links_states": "Bundesstaaten",
+    "links_calculator": "Rechner"
+  }
+}

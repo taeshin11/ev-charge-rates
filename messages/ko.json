@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "홈",
+    "networks": "충전 네트워크",
+    "vehicles": "차량",
+    "states": "지역",
+    "calculator": "요금 계산기",
+    "tagline": "EV 충전 가격 및 속도"
+  },
+  "home": {
+    "hero_title": "모든 네트워크의 EV 충전 가격 비교",
+    "hero_subtitle": "네트워크, 지역, 차량 유형별로 가장 저렴한 충전 옵션을 찾아보세요.",
+    "cta_compare": "네트워크 비교",
+    "cta_calculate": "요금 계산",
+    "section_networks": "주요 충전 네트워크",
+    "section_calculator": "충전 요금 계산기",
+    "section_states": "지역별 충전소",
+    "faq_title": "자주 묻는 질문",
+    "faq_q1": "가장 저렴한 EV 충전 네트워크는?",
+    "faq_a1": "테슬라 슈퍼차저는 비테슬라 차량에도 kWh당 $0.25의 경쟁력 있는 요금을 제공합니다.",
+    "faq_q2": "DC 급속 충전이란?",
+    "faq_a2": "DC 급속 충전은 배터리에 직접 DC 전력을 공급하여 50-350kW의 고속 충전을 가능하게 합니다.",
+    "faq_q3": "NACS vs CCS 커넥터란?",
+    "faq_a3": "NACS는 테슬라의 커넥터로 현재 대부분의 자동차 제조사가 채택했습니다. CCS는 많은 EV에 사용되던 이전 표준입니다.",
+    "faq_q4": "EV를 10%에서 80%까지 충전하는데 얼마나 드나요?",
+    "faq_a4": "차량 배터리 크기와 네트워크 요금에 따라 다릅니다. 계산기를 사용하여 정확한 금액을 확인하세요.",
+    "faq_q5": "어떤 EV 네트워크가 가장 많은 충전소를 보유하고 있나요?",
+    "faq_a5": "ChargePoint는 미국 전역에 25,000개 이상의 충전 위치를 보유한 가장 큰 네트워크입니다."
+  },
+  "networks": {
+    "title": "EV 충전 네트워크",
+    "subtitle": "미국 주요 충전 네트워크의 가격, 속도, 커버리지 비교",
+    "price_kwh": "kWh당 가격",
+    "price_min": "분당 가격",
+    "max_speed": "최대 속도",
+    "stations": "충전소 수",
+    "connectors": "커넥터",
+    "membership": "멤버십",
+    "required": "필요",
+    "not_required": "불필요",
+    "view_details": "상세 보기",
+    "type": "유형",
+    "coverage": "커버리지"
+  },
+  "vehicles": {
+    "title": "차량별 EV 충전 가이드",
+    "subtitle": "전기차의 충전 비용과 호환 네트워크 찾기",
+    "battery": "배터리",
+    "range": "주행 거리",
+    "max_charging": "최대 충전",
+    "port": "포트",
+    "charge_time": "충전 시간 (10-80%)",
+    "view_guide": "충전 가이드 보기",
+    "compatible_networks": "호환 네트워크",
+    "cost_to_charge": "충전 비용 (10-80%)"
+  },
+  "states": {
+    "title": "지역별 EV 충전소",
+    "subtitle": "미국 50개 주의 충전 인프라 및 전기 요금",
+    "state": "주",
+    "stations": "충전소",
+    "avg_rate": "평균 전기 요금",
+    "view_state": "주 보기"
+  },
+  "calculator": {
+    "title": "EV 충전 요금 계산기",
+    "subtitle": "어떤 네트워크에서든 EV 충전 비용을 정확히 계산하세요",
+    "select_vehicle": "차량 선택",
+    "select_network": "네트워크 선택",
+    "start_percent": "시작 충전량 (%)",
+    "end_percent": "목표 충전량 (%)",
+    "calculate": "요금 계산",
+    "estimated_cost": "예상 비용",
+    "estimated_time": "예상 시간",
+    "cost_per_mile": "마일당 비용",
+    "kwh_needed": "필요 kWh",
+    "results_title": "전체 네트워크 비교",
+    "minutes": "분"
+  },
+  "footer": {
+    "disclaimer": "가격은 추정치이며 위치와 시간에 따라 다를 수 있습니다.",
+    "visitors_today": "오늘 방문자",
+    "total_visitors": "총 방문자",
+    "rights": "모든 권리 보유.",
+    "links_networks": "네트워크",
+    "links_vehicles": "차량",
+    "links_states": "지역",
+    "links_calculator": "계산기"
+  }
+}

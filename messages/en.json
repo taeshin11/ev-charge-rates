@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "networks": "Networks",
+    "vehicles": "Vehicles",
+    "states": "States",
+    "calculator": "Calculator",
+    "tagline": "EV Charging Prices & Speeds"
+  },
+  "home": {
+    "hero_title": "Compare EV Charging Prices Across Every Network",
+    "hero_subtitle": "Find the cheapest charging for your electric vehicle — by network, state, and vehicle type.",
+    "cta_compare": "Compare Networks",
+    "cta_calculate": "Calculate Cost",
+    "section_networks": "Top Charging Networks",
+    "section_calculator": "Charging Cost Calculator",
+    "section_states": "Stations by State",
+    "faq_title": "Frequently Asked Questions",
+    "faq_q1": "What is the cheapest EV charging network?",
+    "faq_a1": "Tesla Supercharger offers competitive rates at $0.25/kWh for non-Tesla vehicles. Volta offers free Level 2 charging at select locations. ChargePoint and Flo often have the most competitive per-kWh pricing with membership.",
+    "faq_q2": "What is DC Fast Charging?",
+    "faq_a2": "DC Fast Charging (DCFC) delivers power directly as DC electricity to your battery, bypassing the vehicle's onboard charger. This enables speeds of 50-350kW, compared to 3-22kW for Level 2 AC charging.",
+    "faq_q3": "What is NACS vs CCS connector?",
+    "faq_a3": "NACS (North American Charging Standard) is Tesla's connector now adopted by most automakers. CCS (Combined Charging System) is the previous standard used by many EVs. Adapters are available for both.",
+    "faq_q4": "How much does it cost to charge an EV from 10% to 80%?",
+    "faq_a4": "Costs vary by vehicle battery size and network pricing. A Tesla Model 3 (82 kWh battery) costs roughly $14–$28 for a 10–80% charge depending on the network. Use our calculator for exact figures.",
+    "faq_q5": "Which EV network has the most stations?",
+    "faq_a5": "ChargePoint has the largest network with over 25,000 charging locations across the US. Tesla Supercharger leads in fast-charging reliability with 2,200+ dedicated DC fast charge stations."
+  },
+  "networks": {
+    "title": "EV Charging Networks",
+    "subtitle": "Compare prices, speeds, and coverage for all major US charging networks",
+    "price_kwh": "Price/kWh",
+    "price_min": "Price/min",
+    "max_speed": "Max Speed",
+    "stations": "Stations",
+    "connectors": "Connectors",
+    "membership": "Membership",
+    "required": "Required",
+    "not_required": "Not Required",
+    "view_details": "View Details",
+    "type": "Type",
+    "coverage": "Coverage"
+  },
+  "vehicles": {
+    "title": "EV Charging Guide by Vehicle",
+    "subtitle": "Find charging costs and compatible networks for your electric vehicle",
+    "battery": "Battery",
+    "range": "Range",
+    "max_charging": "Max Charging",
+    "port": "Port",
+    "charge_time": "Charge Time (10-80%)",
+    "view_guide": "View Charging Guide",
+    "compatible_networks": "Compatible Networks",
+    "cost_to_charge": "Cost to Charge (10-80%)"
+  },
+  "states": {
+    "title": "EV Charging Stations by State",
+    "subtitle": "Find charging infrastructure and electricity rates across all 50 states",
+    "state": "State",
+    "stations": "Stations",
+    "avg_rate": "Avg Electricity Rate",
+    "view_state": "View State"
+  },
+  "calculator": {
+    "title": "EV Charging Cost Calculator",
+    "subtitle": "Calculate exactly how much it costs to charge your EV on any network",
+    "select_vehicle": "Select Vehicle",
+    "select_network": "Select Network",
+    "start_percent": "Starting Charge (%)",
+    "end_percent": "Ending Charge (%)",
+    "calculate": "Calculate Cost",
+    "estimated_cost": "Estimated Cost",
+    "estimated_time": "Estimated Time",
+    "cost_per_mile": "Cost Per Mile",
+    "kwh_needed": "kWh Needed",
+    "results_title": "All Networks Comparison",
+    "minutes": "minutes"
+  },
+  "footer": {
+    "disclaimer": "Prices are estimates and may vary by location and time. Always verify current rates before charging.",
+    "visitors_today": "Visitors today",
+    "total_visitors": "Total visitors",
+    "rights": "All rights reserved.",
+    "links_networks": "Networks",
+    "links_vehicles": "Vehicles",
+    "links_states": "States",
+    "links_calculator": "Calculator"
+  }
+}

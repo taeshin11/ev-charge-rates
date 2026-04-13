@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "首页",
+    "networks": "充电网络",
+    "vehicles": "车辆",
+    "states": "州",
+    "calculator": "费用计算",
+    "tagline": "EV充电价格与速度"
+  },
+  "home": {
+    "hero_title": "比较所有网络的EV充电价格",
+    "hero_subtitle": "按网络、州和车型找到最便宜的充电方案。",
+    "cta_compare": "比较网络",
+    "cta_calculate": "计算费用",
+    "section_networks": "主要充电网络",
+    "section_calculator": "充电费用计算器",
+    "section_states": "各州充电站",
+    "faq_title": "常见问题",
+    "faq_q1": "最便宜的EV充电网络是哪个？",
+    "faq_a1": "特斯拉超级充电站为非特斯拉车辆提供每kWh $0.25的有竞争力的价格。",
+    "faq_q2": "什么是直流快速充电？",
+    "faq_a2": "直流快速充电直接向电池提供直流电力，实现50-350kW的高速充电。",
+    "faq_q3": "NACS与CCS接口的区别？",
+    "faq_a3": "NACS是特斯拉的接口，现已被大多数汽车制造商采用。CCS是许多EV使用的旧标准。",
+    "faq_q4": "将EV从10%充到80%需要多少钱？",
+    "faq_a4": "取决于车辆电池大小和网络定价，请使用我们的计算器获取精确数字。",
+    "faq_q5": "哪个EV网络充电站最多？",
+    "faq_a5": "ChargePoint是最大的网络，在全美拥有超过25,000个充电地点。"
+  },
+  "networks": {
+    "title": "EV充电网络",
+    "subtitle": "比较美国主要充电网络的价格、速度和覆盖范围",
+    "price_kwh": "每kWh价格",
+    "price_min": "每分钟价格",
+    "max_speed": "最大速度",
+    "stations": "充电站数量",
+    "connectors": "接口类型",
+    "membership": "会员制",
+    "required": "需要",
+    "not_required": "不需要",
+    "view_details": "查看详情",
+    "type": "类型",
+    "coverage": "覆盖范围"
+  },
+  "vehicles": {
+    "title": "各车型EV充电指南",
+    "subtitle": "查找您的电动汽车的充电费用和兼容网络",
+    "battery": "电池",
+    "range": "续航里程",
+    "max_charging": "最大充电功率",
+    "port": "接口",
+    "charge_time": "充电时间（10-80%）",
+    "view_guide": "查看充电指南",
+    "compatible_networks": "兼容网络",
+    "cost_to_charge": "充电费用（10-80%）"
+  },
+  "states": {
+    "title": "各州EV充电站",
+    "subtitle": "全美50个州的充电基础设施和电费率",
+    "state": "州",
+    "stations": "充电站",
+    "avg_rate": "平均电费率",
+    "view_state": "查看州"
+  },
+  "calculator": {
+    "title": "EV充电费用计算器",
+    "subtitle": "精确计算在任何网络上为您的EV充电的费用",
+    "select_vehicle": "选择车辆",
+    "select_network": "选择网络",
+    "start_percent": "起始电量（%）",
+    "end_percent": "目标电量（%）",
+    "calculate": "计算费用",
+    "estimated_cost": "预计费用",
+    "estimated_time": "预计时间",
+    "cost_per_mile": "每英里费用",
+    "kwh_needed": "所需kWh",
+    "results_title": "全网络比较",
+    "minutes": "分钟"
+  },
+  "footer": {
+    "disclaimer": "价格为估算值，可能因地点和时间而异。",
+    "visitors_today": "今日访客",
+    "total_visitors": "总访客",
+    "rights": "版权所有。",
+    "links_networks": "网络",
+    "links_vehicles": "车辆",
+    "links_states": "州",
+    "links_calculator": "计算器"
+  }
+}

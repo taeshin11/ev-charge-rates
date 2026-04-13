@@ -1,0 +1,302 @@
+[
+  {
+    "slug": "tesla-model-3",
+    "name": "Tesla Model 3",
+    "maker": "Tesla",
+    "batteryKwh": 82,
+    "rangeMiles": 358,
+    "maxChargingKw": 250,
+    "port": "NACS",
+    "chargeTime10to80": 25
+  },
+  {
+    "slug": "tesla-model-y",
+    "name": "Tesla Model Y",
+    "maker": "Tesla",
+    "batteryKwh": 75,
+    "rangeMiles": 330,
+    "maxChargingKw": 250,
+    "port": "NACS",
+    "chargeTime10to80": 28
+  },
+  {
+    "slug": "tesla-model-s",
+    "name": "Tesla Model S",
+    "maker": "Tesla",
+    "batteryKwh": 100,
+    "rangeMiles": 405,
+    "maxChargingKw": 250,
+    "port": "NACS",
+    "chargeTime10to80": 30
+  },
+  {
+    "slug": "tesla-model-x",
+    "name": "Tesla Model X",
+    "maker": "Tesla",
+    "batteryKwh": 100,
+    "rangeMiles": 348,
+    "maxChargingKw": 250,
+    "port": "NACS",
+    "chargeTime10to80": 32
+  },
+  {
+    "slug": "chevy-bolt",
+    "name": "Chevy Bolt EV",
+    "maker": "Chevrolet",
+    "batteryKwh": 65,
+    "rangeMiles": 259,
+    "maxChargingKw": 55,
+    "port": "CCS",
+    "chargeTime10to80": 60
+  },
+  {
+    "slug": "chevy-equinox-ev",
+    "name": "Chevy Equinox EV",
+    "maker": "Chevrolet",
+    "batteryKwh": 85,
+    "rangeMiles": 319,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 25
+  },
+  {
+    "slug": "ford-mustang-mach-e",
+    "name": "Ford Mustang Mach-E",
+    "maker": "Ford",
+    "batteryKwh": 91,
+    "rangeMiles": 312,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 38
+  },
+  {
+    "slug": "ford-f150-lightning",
+    "name": "Ford F-150 Lightning",
+    "maker": "Ford",
+    "batteryKwh": 131,
+    "rangeMiles": 320,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 44
+  },
+  {
+    "slug": "rivian-r1t",
+    "name": "Rivian R1T",
+    "maker": "Rivian",
+    "batteryKwh": 135,
+    "rangeMiles": 314,
+    "maxChargingKw": 200,
+    "port": "NACS",
+    "chargeTime10to80": 40
+  },
+  {
+    "slug": "rivian-r1s",
+    "name": "Rivian R1S",
+    "maker": "Rivian",
+    "batteryKwh": 135,
+    "rangeMiles": 321,
+    "maxChargingKw": 200,
+    "port": "NACS",
+    "chargeTime10to80": 40
+  },
+  {
+    "slug": "gmc-hummer-ev",
+    "name": "GMC Hummer EV",
+    "maker": "GMC",
+    "batteryKwh": 200,
+    "rangeMiles": 329,
+    "maxChargingKw": 350,
+    "port": "CCS",
+    "chargeTime10to80": 35
+  },
+  {
+    "slug": "hyundai-ioniq-5",
+    "name": "Hyundai IONIQ 5",
+    "maker": "Hyundai",
+    "batteryKwh": 77,
+    "rangeMiles": 303,
+    "maxChargingKw": 233,
+    "port": "CCS",
+    "chargeTime10to80": 18
+  },
+  {
+    "slug": "hyundai-ioniq-6",
+    "name": "Hyundai IONIQ 6",
+    "maker": "Hyundai",
+    "batteryKwh": 77,
+    "rangeMiles": 361,
+    "maxChargingKw": 233,
+    "port": "CCS",
+    "chargeTime10to80": 18
+  },
+  {
+    "slug": "kia-ev6",
+    "name": "Kia EV6",
+    "maker": "Kia",
+    "batteryKwh": 77,
+    "rangeMiles": 310,
+    "maxChargingKw": 233,
+    "port": "CCS",
+    "chargeTime10to80": 18
+  },
+  {
+    "slug": "vw-id4",
+    "name": "VW ID.4",
+    "maker": "Volkswagen",
+    "batteryKwh": 82,
+    "rangeMiles": 291,
+    "maxChargingKw": 135,
+    "port": "CCS",
+    "chargeTime10to80": 38
+  },
+  {
+    "slug": "bmw-ix",
+    "name": "BMW iX",
+    "maker": "BMW",
+    "batteryKwh": 111,
+    "rangeMiles": 324,
+    "maxChargingKw": 200,
+    "port": "CCS",
+    "chargeTime10to80": 35
+  },
+  {
+    "slug": "audi-q4-etron",
+    "name": "Audi Q4 e-tron",
+    "maker": "Audi",
+    "batteryKwh": 82,
+    "rangeMiles": 265,
+    "maxChargingKw": 135,
+    "port": "CCS",
+    "chargeTime10to80": 38
+  },
+  {
+    "slug": "lucid-air",
+    "name": "Lucid Air",
+    "maker": "Lucid",
+    "batteryKwh": 118,
+    "rangeMiles": 516,
+    "maxChargingKw": 300,
+    "port": "CCS",
+    "chargeTime10to80": 22
+  },
+  {
+    "slug": "polestar-2",
+    "name": "Polestar 2",
+    "maker": "Polestar",
+    "batteryKwh": 78,
+    "rangeMiles": 270,
+    "maxChargingKw": 205,
+    "port": "CCS",
+    "chargeTime10to80": 28
+  },
+  {
+    "slug": "volvo-xc40",
+    "name": "Volvo XC40 Recharge",
+    "maker": "Volvo",
+    "batteryKwh": 82,
+    "rangeMiles": 223,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 37
+  },
+  {
+    "slug": "mercedes-eqs",
+    "name": "Mercedes EQS",
+    "maker": "Mercedes",
+    "batteryKwh": 107,
+    "rangeMiles": 350,
+    "maxChargingKw": 200,
+    "port": "CCS",
+    "chargeTime10to80": 31
+  },
+  {
+    "slug": "nissan-leaf",
+    "name": "Nissan LEAF",
+    "maker": "Nissan",
+    "batteryKwh": 62,
+    "rangeMiles": 212,
+    "maxChargingKw": 50,
+    "port": "CHAdeMO",
+    "chargeTime10to80": 60
+  },
+  {
+    "slug": "subaru-solterra",
+    "name": "Subaru Solterra",
+    "maker": "Subaru",
+    "batteryKwh": 72,
+    "rangeMiles": 228,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 56
+  },
+  {
+    "slug": "toyota-bz4x",
+    "name": "Toyota bZ4X",
+    "maker": "Toyota",
+    "batteryKwh": 72,
+    "rangeMiles": 252,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 56
+  },
+  {
+    "slug": "honda-prologue",
+    "name": "Honda Prologue",
+    "maker": "Honda",
+    "batteryKwh": 85,
+    "rangeMiles": 296,
+    "maxChargingKw": 150,
+    "port": "CCS",
+    "chargeTime10to80": 34
+  },
+  {
+    "slug": "jeep-wrangler-4xe",
+    "name": "Jeep Wrangler 4xe",
+    "maker": "Jeep",
+    "batteryKwh": 17,
+    "rangeMiles": 21,
+    "maxChargingKw": 7,
+    "port": "J1772",
+    "chargeTime10to80": 120
+  },
+  {
+    "slug": "cadillac-lyriq",
+    "name": "Cadillac LYRIQ",
+    "maker": "Cadillac",
+    "batteryKwh": 102,
+    "rangeMiles": 307,
+    "maxChargingKw": 190,
+    "port": "CCS",
+    "chargeTime10to80": 38
+  },
+  {
+    "slug": "porsche-taycan",
+    "name": "Porsche Taycan",
+    "maker": "Porsche",
+    "batteryKwh": 93,
+    "rangeMiles": 246,
+    "maxChargingKw": 270,
+    "port": "CCS",
+    "chargeTime10to80": 22
+  },
+  {
+    "slug": "mini-electric",
+    "name": "MINI Electric",
+    "maker": "MINI",
+    "batteryKwh": 54,
+    "rangeMiles": 114,
+    "maxChargingKw": 130,
+    "port": "CCS",
+    "chargeTime10to80": 36
+  },
+  {
+    "slug": "genesis-gv60",
+    "name": "Genesis GV60",
+    "maker": "Genesis",
+    "batteryKwh": 77,
+    "rangeMiles": 248,
+    "maxChargingKw": 233,
+    "port": "CCS",
+    "chargeTime10to80": 18
+  }
+]

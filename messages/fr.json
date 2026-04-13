@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "networks": "Réseaux",
+    "vehicles": "Véhicules",
+    "states": "États",
+    "calculator": "Calculateur",
+    "tagline": "Prix et vitesses de recharge VE"
+  },
+  "home": {
+    "hero_title": "Comparez les prix de recharge VE sur tous les réseaux",
+    "hero_subtitle": "Trouvez la recharge la moins chère pour votre véhicule électrique — par réseau, état et type de véhicule.",
+    "cta_compare": "Comparer les réseaux",
+    "cta_calculate": "Calculer le coût",
+    "section_networks": "Principaux réseaux de recharge",
+    "section_calculator": "Calculateur de coût de recharge",
+    "section_states": "Stations par état",
+    "faq_title": "Questions fréquentes",
+    "faq_q1": "Quel est le réseau de recharge VE le moins cher ?",
+    "faq_a1": "Tesla Supercharger offre des tarifs compétitifs de 0,25 $/kWh pour les véhicules non Tesla.",
+    "faq_q2": "Qu'est-ce que la recharge rapide DC ?",
+    "faq_a2": "La recharge rapide DC fournit l'électricité DC directement à la batterie, permettant des vitesses de 50 à 350 kW.",
+    "faq_q3": "Quelle est la différence entre NACS et CCS ?",
+    "faq_a3": "NACS est le connecteur Tesla adopté par la plupart des constructeurs. CCS est l'ancienne norme utilisée par de nombreux VE.",
+    "faq_q4": "Combien coûte la recharge d'un VE de 10 % à 80 % ?",
+    "faq_a4": "Les coûts varient selon la taille de la batterie et le réseau. Utilisez notre calculateur pour des chiffres précis.",
+    "faq_q5": "Quel réseau a le plus de stations ?",
+    "faq_a5": "ChargePoint est le plus grand réseau avec plus de 25 000 sites de recharge aux États-Unis."
+  },
+  "networks": {
+    "title": "Réseaux de recharge VE",
+    "subtitle": "Comparez les prix, vitesses et couvertures des principaux réseaux de recharge aux États-Unis",
+    "price_kwh": "Prix/kWh",
+    "price_min": "Prix/min",
+    "max_speed": "Vitesse max",
+    "stations": "Stations",
+    "connectors": "Connecteurs",
+    "membership": "Abonnement",
+    "required": "Requis",
+    "not_required": "Non requis",
+    "view_details": "Voir les détails",
+    "type": "Type",
+    "coverage": "Couverture"
+  },
+  "vehicles": {
+    "title": "Guide de recharge VE par véhicule",
+    "subtitle": "Trouvez les coûts de recharge et les réseaux compatibles pour votre véhicule électrique",
+    "battery": "Batterie",
+    "range": "Autonomie",
+    "max_charging": "Recharge max",
+    "port": "Port",
+    "charge_time": "Temps de recharge (10-80%)",
+    "view_guide": "Voir le guide de recharge",
+    "compatible_networks": "Réseaux compatibles",
+    "cost_to_charge": "Coût de recharge (10-80%)"
+  },
+  "states": {
+    "title": "Stations VE par état",
+    "subtitle": "Infrastructure de recharge et tarifs d'électricité dans les 50 états",
+    "state": "État",
+    "stations": "Stations",
+    "avg_rate": "Tarif électricité moyen",
+    "view_state": "Voir l'état"
+  },
+  "calculator": {
+    "title": "Calculateur de coût de recharge VE",
+    "subtitle": "Calculez exactement le coût de recharge de votre VE sur n'importe quel réseau",
+    "select_vehicle": "Sélectionner le véhicule",
+    "select_network": "Sélectionner le réseau",
+    "start_percent": "Charge de départ (%)",
+    "end_percent": "Charge finale (%)",
+    "calculate": "Calculer le coût",
+    "estimated_cost": "Coût estimé",
+    "estimated_time": "Temps estimé",
+    "cost_per_mile": "Coût par mile",
+    "kwh_needed": "kWh nécessaires",
+    "results_title": "Comparaison de tous les réseaux",
+    "minutes": "minutes"
+  },
+  "footer": {
+    "disclaimer": "Les prix sont des estimations et peuvent varier selon le lieu et le moment.",
+    "visitors_today": "Visiteurs aujourd'hui",
+    "total_visitors": "Visiteurs totaux",
+    "rights": "Tous droits réservés.",
+    "links_networks": "Réseaux",
+    "links_vehicles": "Véhicules",
+    "links_states": "États",
+    "links_calculator": "Calculateur"
+  }
+}

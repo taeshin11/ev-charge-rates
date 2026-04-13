@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "networks": "充電ネットワーク",
+    "vehicles": "車両",
+    "states": "州",
+    "calculator": "料金計算",
+    "tagline": "EV充電価格・速度比較"
+  },
+  "home": {
+    "hero_title": "全ネットワークのEV充電価格を比較",
+    "hero_subtitle": "ネットワーク、州、車種別に最安値の充電を見つけましょう。",
+    "cta_compare": "ネットワークを比較",
+    "cta_calculate": "料金を計算",
+    "section_networks": "主要充電ネットワーク",
+    "section_calculator": "充電料金計算機",
+    "section_states": "州別充電スタンド",
+    "faq_title": "よくある質問",
+    "faq_q1": "最も安いEV充電ネットワークは？",
+    "faq_a1": "テスラスーパーチャージャーは非テスラ車にも1kWhあたり$0.25の競争力ある料金を提供しています。",
+    "faq_q2": "DC急速充電とは？",
+    "faq_a2": "DC急速充電はバッテリーに直接DC電力を供給し、50〜350kWの高速充電を可能にします。",
+    "faq_q3": "NACSとCCSコネクターの違いは？",
+    "faq_a3": "NACSはテスラのコネクターで現在ほとんどのメーカーが採用しています。CCSは多くのEVで使用されていた旧規格です。",
+    "faq_q4": "EVを10%から80%に充電するといくらかかりますか？",
+    "faq_a4": "車種とネットワークの料金によって異なります。計算機で正確な金額をご確認ください。",
+    "faq_q5": "最も多くのステーションを持つEVネットワークは？",
+    "faq_a5": "ChargePointは全米に25,000以上の充電拠点を持つ最大のネットワークです。"
+  },
+  "networks": {
+    "title": "EV充電ネットワーク",
+    "subtitle": "米国主要充電ネットワークの価格・速度・カバレッジ比較",
+    "price_kwh": "kWh単価",
+    "price_min": "分単価",
+    "max_speed": "最大速度",
+    "stations": "ステーション数",
+    "connectors": "コネクター",
+    "membership": "会員制",
+    "required": "必要",
+    "not_required": "不要",
+    "view_details": "詳細を見る",
+    "type": "タイプ",
+    "coverage": "カバレッジ"
+  },
+  "vehicles": {
+    "title": "車種別EV充電ガイド",
+    "subtitle": "電気自動車の充電費用と対応ネットワークを検索",
+    "battery": "バッテリー",
+    "range": "航続距離",
+    "max_charging": "最大充電",
+    "port": "ポート",
+    "charge_time": "充電時間（10-80%）",
+    "view_guide": "充電ガイドを見る",
+    "compatible_networks": "対応ネットワーク",
+    "cost_to_charge": "充電費用（10-80%）"
+  },
+  "states": {
+    "title": "州別EV充電スタンド",
+    "subtitle": "全米50州の充電インフラと電気料金",
+    "state": "州",
+    "stations": "スタンド数",
+    "avg_rate": "平均電気料金",
+    "view_state": "州を見る"
+  },
+  "calculator": {
+    "title": "EV充電料金計算機",
+    "subtitle": "どのネットワークでもEV充電費用を正確に計算",
+    "select_vehicle": "車両を選択",
+    "select_network": "ネットワークを選択",
+    "start_percent": "開始充電量（%）",
+    "end_percent": "目標充電量（%）",
+    "calculate": "料金を計算",
+    "estimated_cost": "推定費用",
+    "estimated_time": "推定時間",
+    "cost_per_mile": "1マイルあたりの費用",
+    "kwh_needed": "必要kWh",
+    "results_title": "全ネットワーク比較",
+    "minutes": "分"
+  },
+  "footer": {
+    "disclaimer": "料金は推定値であり、場所や時間によって異なる場合があります。",
+    "visitors_today": "本日の訪問者",
+    "total_visitors": "総訪問者",
+    "rights": "全著作権保有。",
+    "links_networks": "ネットワーク",
+    "links_vehicles": "車両",
+    "links_states": "州",
+    "links_calculator": "計算機"
+  }
+}
