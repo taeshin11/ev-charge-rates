@@ -47,12 +47,12 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="font-semibold text-white mb-3">Connector Types</h3>
-            <ul className="space-y-2 text-sm text-green-300">
-              <li>NACS (Tesla Standard)</li>
-              <li>CCS (Combined Charging)</li>
-              <li>CHAdeMO (Nissan/older)</li>
-              <li>J1772 (Level 2 AC)</li>
+            <h3 className="font-semibold text-white mb-3">Information</h3>
+            <ul className="space-y-2 text-sm">
+              <li><Link href={`/${locale}/about`} className="text-green-300 hover:text-white transition-colors">About Us</Link></li>
+              <li><Link href={`/${locale}/how-to-use`} className="text-green-300 hover:text-white transition-colors">How to Use / FAQ</Link></li>
+              <li><Link href={`/${locale}/privacy`} className="text-green-300 hover:text-white transition-colors">Privacy Policy</Link></li>
+              <li><Link href={`/${locale}/terms`} className="text-green-300 hover:text-white transition-colors">Terms of Use</Link></li>
             </ul>
           </div>
         </div>

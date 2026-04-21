@@ -8,6 +8,8 @@ import states from '@/data/states-fallback.json';
 import NetworkCard from '@/components/NetworkCard';
 import CostCalculator from '@/components/CostCalculator';
 import StateTable from '@/components/StateTable';
+import { AdsterraNativeBanner } from '@/components/ads/AdsterraNativeBanner';
+import { AdsterraDisplay } from '@/components/ads/AdsterraDisplay';
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
@@ -201,6 +203,8 @@ function HomeContent({ locale }: { locale: string }) {
           <StateTable states={topStates} locale={locale} />
         </div>
       </section>
+      <AdsterraNativeBanner />
+      <AdsterraDisplay />
 
       <FAQSection />
     </>

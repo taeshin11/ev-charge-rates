@@ -79,6 +79,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: 'monthly',
       priority: 0.8,
     });
+
+    // Content pages
+    for (const slug of ['about', 'how-to-use', 'privacy', 'terms']) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/${slug}`,
+        lastModified: new Date(),
+        changeFrequency: 'monthly',
+        priority: 0.6,
+      });
+    }
   }
 
   return entries;
