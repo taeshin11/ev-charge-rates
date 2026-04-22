@@ -1,52 +1,352 @@
 [
-  { "state": "Alabama", "abbr": "AL", "stations": 420, "avgRatePerKwh": 0.134 },
-  { "state": "Alaska", "abbr": "AK", "stations": 95, "avgRatePerKwh": 0.229 },
-  { "state": "Arizona", "abbr": "AZ", "stations": 1820, "avgRatePerKwh": 0.126 },
-  { "state": "Arkansas", "abbr": "AR", "stations": 310, "avgRatePerKwh": 0.104 },
-  { "state": "California", "abbr": "CA", "stations": 14500, "avgRatePerKwh": 0.291 },
-  { "state": "Colorado", "abbr": "CO", "stations": 1650, "avgRatePerKwh": 0.136 },
-  { "state": "Connecticut", "abbr": "CT", "stations": 1200, "avgRatePerKwh": 0.256 },
-  { "state": "Delaware", "abbr": "DE", "stations": 350, "avgRatePerKwh": 0.132 },
-  { "state": "Florida", "abbr": "FL", "stations": 4200, "avgRatePerKwh": 0.130 },
-  { "state": "Georgia", "abbr": "GA", "stations": 2100, "avgRatePerKwh": 0.115 },
-  { "state": "Hawaii", "abbr": "HI", "stations": 430, "avgRatePerKwh": 0.388 },
-  { "state": "Idaho", "abbr": "ID", "stations": 380, "avgRatePerKwh": 0.101 },
-  { "state": "Illinois", "abbr": "IL", "stations": 2800, "avgRatePerKwh": 0.142 },
-  { "state": "Indiana", "abbr": "IN", "stations": 920, "avgRatePerKwh": 0.125 },
-  { "state": "Iowa", "abbr": "IA", "stations": 540, "avgRatePerKwh": 0.111 },
-  { "state": "Kansas", "abbr": "KS", "stations": 420, "avgRatePerKwh": 0.119 },
-  { "state": "Kentucky", "abbr": "KY", "stations": 580, "avgRatePerKwh": 0.113 },
-  { "state": "Louisiana", "abbr": "LA", "stations": 560, "avgRatePerKwh": 0.103 },
-  { "state": "Maine", "abbr": "ME", "stations": 380, "avgRatePerKwh": 0.224 },
-  { "state": "Maryland", "abbr": "MD", "stations": 1900, "avgRatePerKwh": 0.156 },
-  { "state": "Massachusetts", "abbr": "MA", "stations": 2500, "avgRatePerKwh": 0.259 },
-  { "state": "Michigan", "abbr": "MI", "stations": 1800, "avgRatePerKwh": 0.165 },
-  { "state": "Minnesota", "abbr": "MN", "stations": 1100, "avgRatePerKwh": 0.143 },
-  { "state": "Mississippi", "abbr": "MS", "stations": 230, "avgRatePerKwh": 0.120 },
-  { "state": "Missouri", "abbr": "MO", "stations": 870, "avgRatePerKwh": 0.118 },
-  { "state": "Montana", "abbr": "MT", "stations": 260, "avgRatePerKwh": 0.113 },
-  { "state": "Nebraska", "abbr": "NE", "stations": 380, "avgRatePerKwh": 0.108 },
-  { "state": "Nevada", "abbr": "NV", "stations": 940, "avgRatePerKwh": 0.119 },
-  { "state": "New Hampshire", "abbr": "NH", "stations": 460, "avgRatePerKwh": 0.233 },
-  { "state": "New Jersey", "abbr": "NJ", "stations": 2800, "avgRatePerKwh": 0.178 },
-  { "state": "New Mexico", "abbr": "NM", "stations": 450, "avgRatePerKwh": 0.128 },
-  { "state": "New York", "abbr": "NY", "stations": 5200, "avgRatePerKwh": 0.225 },
-  { "state": "North Carolina", "abbr": "NC", "stations": 1900, "avgRatePerKwh": 0.123 },
-  { "state": "North Dakota", "abbr": "ND", "stations": 130, "avgRatePerKwh": 0.100 },
-  { "state": "Ohio", "abbr": "OH", "stations": 2100, "avgRatePerKwh": 0.133 },
-  { "state": "Oklahoma", "abbr": "OK", "stations": 560, "avgRatePerKwh": 0.106 },
-  { "state": "Oregon", "abbr": "OR", "stations": 1650, "avgRatePerKwh": 0.120 },
-  { "state": "Pennsylvania", "abbr": "PA", "stations": 2900, "avgRatePerKwh": 0.163 },
-  { "state": "Rhode Island", "abbr": "RI", "stations": 330, "avgRatePerKwh": 0.248 },
-  { "state": "South Carolina", "abbr": "SC", "stations": 780, "avgRatePerKwh": 0.134 },
-  { "state": "South Dakota", "abbr": "SD", "stations": 160, "avgRatePerKwh": 0.113 },
-  { "state": "Tennessee", "abbr": "TN", "stations": 1100, "avgRatePerKwh": 0.114 },
-  { "state": "Texas", "abbr": "TX", "stations": 5800, "avgRatePerKwh": 0.128 },
-  { "state": "Utah", "abbr": "UT", "stations": 800, "avgRatePerKwh": 0.107 },
-  { "state": "Vermont", "abbr": "VT", "stations": 420, "avgRatePerKwh": 0.198 },
-  { "state": "Virginia", "abbr": "VA", "stations": 2400, "avgRatePerKwh": 0.130 },
-  { "state": "Washington", "abbr": "WA", "stations": 2800, "avgRatePerKwh": 0.107 },
-  { "state": "West Virginia", "abbr": "WV", "stations": 230, "avgRatePerKwh": 0.128 },
-  { "state": "Wisconsin", "abbr": "WI", "stations": 930, "avgRatePerKwh": 0.152 },
-  { "state": "Wyoming", "abbr": "WY", "stations": 180, "avgRatePerKwh": 0.108 }
+  {
+    "state": "Alabama",
+    "abbr": "AL",
+    "stations": 420,
+    "avgRatePerKwh": 0.1447,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Alaska",
+    "abbr": "AK",
+    "stations": 95,
+    "avgRatePerKwh": 0.2473,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Arizona",
+    "abbr": "AZ",
+    "stations": 1820,
+    "avgRatePerKwh": 0.1361,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Arkansas",
+    "abbr": "AR",
+    "stations": 310,
+    "avgRatePerKwh": 0.1123,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "California",
+    "abbr": "CA",
+    "stations": 14500,
+    "avgRatePerKwh": 0.3143,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Colorado",
+    "abbr": "CO",
+    "stations": 1650,
+    "avgRatePerKwh": 0.1469,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Connecticut",
+    "abbr": "CT",
+    "stations": 1200,
+    "avgRatePerKwh": 0.2765,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Delaware",
+    "abbr": "DE",
+    "stations": 350,
+    "avgRatePerKwh": 0.1426,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Florida",
+    "abbr": "FL",
+    "stations": 4200,
+    "avgRatePerKwh": 0.1404,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Georgia",
+    "abbr": "GA",
+    "stations": 2100,
+    "avgRatePerKwh": 0.1242,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Hawaii",
+    "abbr": "HI",
+    "stations": 430,
+    "avgRatePerKwh": 0.419,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Idaho",
+    "abbr": "ID",
+    "stations": 380,
+    "avgRatePerKwh": 0.1091,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Illinois",
+    "abbr": "IL",
+    "stations": 2800,
+    "avgRatePerKwh": 0.1534,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Indiana",
+    "abbr": "IN",
+    "stations": 920,
+    "avgRatePerKwh": 0.135,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Iowa",
+    "abbr": "IA",
+    "stations": 540,
+    "avgRatePerKwh": 0.1199,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Kansas",
+    "abbr": "KS",
+    "stations": 420,
+    "avgRatePerKwh": 0.1285,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Kentucky",
+    "abbr": "KY",
+    "stations": 580,
+    "avgRatePerKwh": 0.122,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Louisiana",
+    "abbr": "LA",
+    "stations": 560,
+    "avgRatePerKwh": 0.1112,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Maine",
+    "abbr": "ME",
+    "stations": 380,
+    "avgRatePerKwh": 0.2419,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Maryland",
+    "abbr": "MD",
+    "stations": 1900,
+    "avgRatePerKwh": 0.1685,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "stations": 2500,
+    "avgRatePerKwh": 0.2797,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Michigan",
+    "abbr": "MI",
+    "stations": 1800,
+    "avgRatePerKwh": 0.1782,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Minnesota",
+    "abbr": "MN",
+    "stations": 1100,
+    "avgRatePerKwh": 0.1544,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Mississippi",
+    "abbr": "MS",
+    "stations": 230,
+    "avgRatePerKwh": 0.1296,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Missouri",
+    "abbr": "MO",
+    "stations": 870,
+    "avgRatePerKwh": 0.1274,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Montana",
+    "abbr": "MT",
+    "stations": 260,
+    "avgRatePerKwh": 0.122,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Nebraska",
+    "abbr": "NE",
+    "stations": 380,
+    "avgRatePerKwh": 0.1166,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Nevada",
+    "abbr": "NV",
+    "stations": 940,
+    "avgRatePerKwh": 0.1285,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "New Hampshire",
+    "abbr": "NH",
+    "stations": 460,
+    "avgRatePerKwh": 0.2516,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "New Jersey",
+    "abbr": "NJ",
+    "stations": 2800,
+    "avgRatePerKwh": 0.1922,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "New Mexico",
+    "abbr": "NM",
+    "stations": 450,
+    "avgRatePerKwh": 0.1382,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "New York",
+    "abbr": "NY",
+    "stations": 5200,
+    "avgRatePerKwh": 0.243,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "North Carolina",
+    "abbr": "NC",
+    "stations": 1900,
+    "avgRatePerKwh": 0.1328,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "North Dakota",
+    "abbr": "ND",
+    "stations": 130,
+    "avgRatePerKwh": 0.108,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Ohio",
+    "abbr": "OH",
+    "stations": 2100,
+    "avgRatePerKwh": 0.1436,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Oklahoma",
+    "abbr": "OK",
+    "stations": 560,
+    "avgRatePerKwh": 0.1145,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Oregon",
+    "abbr": "OR",
+    "stations": 1650,
+    "avgRatePerKwh": 0.1296,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Pennsylvania",
+    "abbr": "PA",
+    "stations": 2900,
+    "avgRatePerKwh": 0.176,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Rhode Island",
+    "abbr": "RI",
+    "stations": 330,
+    "avgRatePerKwh": 0.2678,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "South Carolina",
+    "abbr": "SC",
+    "stations": 780,
+    "avgRatePerKwh": 0.1447,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "South Dakota",
+    "abbr": "SD",
+    "stations": 160,
+    "avgRatePerKwh": 0.122,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Tennessee",
+    "abbr": "TN",
+    "stations": 1100,
+    "avgRatePerKwh": 0.1231,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Texas",
+    "abbr": "TX",
+    "stations": 5800,
+    "avgRatePerKwh": 0.1382,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Utah",
+    "abbr": "UT",
+    "stations": 800,
+    "avgRatePerKwh": 0.1156,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Vermont",
+    "abbr": "VT",
+    "stations": 420,
+    "avgRatePerKwh": 0.2138,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Virginia",
+    "abbr": "VA",
+    "stations": 2400,
+    "avgRatePerKwh": 0.1404,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Washington",
+    "abbr": "WA",
+    "stations": 2800,
+    "avgRatePerKwh": 0.1156,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "West Virginia",
+    "abbr": "WV",
+    "stations": 230,
+    "avgRatePerKwh": 0.1382,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Wisconsin",
+    "abbr": "WI",
+    "stations": 930,
+    "avgRatePerKwh": 0.1642,
+    "lastUpdated": "2026-04-22"
+  },
+  {
+    "state": "Wyoming",
+    "abbr": "WY",
+    "stations": 180,
+    "avgRatePerKwh": 0.1166,
+    "lastUpdated": "2026-04-22"
+  }
 ]

@@ -3,210 +3,272 @@
     "slug": "tesla-supercharger",
     "name": "Tesla Supercharger",
     "type": "DC Fast",
-    "pricePerKwh": 0.25,
+    "pricePerKwh": 0.34,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 250,
-    "connectors": ["NACS", "CCS"],
+    "connectors": [
+      "NACS",
+      "CCS"
+    ],
     "stations": 2200,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.tesla.com/supercharging"
+    "applyUrl": "https://www.tesla.com/supercharging",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "chargepoint",
     "name": "ChargePoint",
     "type": "Both",
-    "pricePerKwh": 0.29,
-    "pricePerMin": 0.10,
+    "pricePerKwh": 0.34,
+    "pricePerMin": 0.12,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 62,
-    "connectors": ["CCS", "CHAdeMO", "J1772"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "J1772"
+    ],
     "stations": 25000,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.chargepoint.com"
+    "applyUrl": "https://www.chargepoint.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "electrify-america",
     "name": "Electrify America",
     "type": "DC Fast",
-    "pricePerKwh": 0.48,
+    "pricePerKwh": 0.52,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 350,
-    "connectors": ["CCS", "CHAdeMO"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
     "stations": 900,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.electrifyamerica.com"
+    "applyUrl": "https://www.electrifyamerica.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "evgo",
     "name": "EVgo",
     "type": "DC Fast",
-    "pricePerKwh": 0.45,
+    "pricePerKwh": 0.5,
     "pricePerMin": 0.25,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 350,
-    "connectors": ["CCS", "CHAdeMO", "NACS"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "NACS"
+    ],
     "stations": 1000,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.evgo.com"
+    "applyUrl": "https://www.evgo.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "blink",
     "name": "Blink",
     "type": "Both",
-    "pricePerKwh": 0.39,
+    "pricePerKwh": 0.43,
     "pricePerMin": 0.08,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 80,
-    "connectors": ["CCS", "CHAdeMO", "J1772"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "J1772"
+    ],
     "stations": 6500,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.blinkcharging.com"
+    "applyUrl": "https://www.blinkcharging.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "bp-pulse",
     "name": "BP Pulse",
     "type": "Both",
-    "pricePerKwh": 0.41,
+    "pricePerKwh": 0.45,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 150,
-    "connectors": ["CCS", "J1772"],
+    "connectors": [
+      "CCS",
+      "J1772"
+    ],
     "stations": 3000,
     "coverage": "Nationwide",
-    "applyUrl": "https://bppulse.com"
+    "applyUrl": "https://bppulse.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "francis-energy",
     "name": "Francis Energy",
     "type": "DC Fast",
-    "pricePerKwh": 0.35,
+    "pricePerKwh": 0.38,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 50,
-    "connectors": ["CCS", "CHAdeMO"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
     "stations": 200,
     "coverage": "Oklahoma, Texas, Arkansas",
-    "applyUrl": "https://www.francisenergy.com"
+    "applyUrl": "https://www.francisenergy.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "volta",
     "name": "Volta",
     "type": "Level 2",
-    "pricePerKwh": null,
+    "pricePerKwh": 0.28,
     "pricePerMin": null,
-    "pricePerSession": 0.00,
+    "pricePerSession": 0.0,
     "membership": false,
     "maxKw": 25,
-    "connectors": ["J1772"],
+    "connectors": [
+      "J1772"
+    ],
     "stations": 3000,
     "coverage": "Major cities",
-    "applyUrl": "https://www.voltacharging.com"
+    "applyUrl": "https://www.voltacharging.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "wallbox",
     "name": "Wallbox",
     "type": "Level 2",
-    "pricePerKwh": 0.20,
+    "pricePerKwh": 0.24,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 22,
-    "connectors": ["J1772", "CCS"],
+    "connectors": [
+      "J1772",
+      "CCS"
+    ],
     "stations": 500,
     "coverage": "Select markets",
-    "applyUrl": "https://wallbox.com"
+    "applyUrl": "https://wallbox.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "rivian-adventure-network",
     "name": "Rivian Adventure Network",
     "type": "DC Fast",
-    "pricePerKwh": 0.32,
+    "pricePerKwh": 0.34,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 200,
-    "connectors": ["NACS"],
+    "connectors": [
+      "NACS"
+    ],
     "stations": 600,
     "coverage": "Adventure destinations",
-    "applyUrl": "https://rivian.com/adventure-network"
+    "applyUrl": "https://rivian.com/adventure-network",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "gm-energy",
     "name": "GM Energy",
     "type": "DC Fast",
-    "pricePerKwh": 0.34,
+    "pricePerKwh": 0.37,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 350,
-    "connectors": ["CCS", "NACS"],
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
     "stations": 400,
     "coverage": "Select states",
-    "applyUrl": "https://www.gm.com/electric/gm-energy"
+    "applyUrl": "https://www.gm.com/electric/gm-energy",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "ford-charge-network",
     "name": "Ford Charge Network",
     "type": "Both",
-    "pricePerKwh": 0.31,
+    "pricePerKwh": 0.34,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 150,
-    "connectors": ["CCS", "NACS"],
+    "connectors": [
+      "CCS",
+      "NACS"
+    ],
     "stations": 80000,
     "coverage": "Nationwide (partner network)",
-    "applyUrl": "https://www.ford.com/electric/charge-network"
+    "applyUrl": "https://www.ford.com/electric/charge-network",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "shell-recharge",
     "name": "Shell Recharge",
     "type": "Both",
-    "pricePerKwh": 0.44,
+    "pricePerKwh": 0.48,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 175,
-    "connectors": ["CCS", "CHAdeMO", "J1772"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO",
+      "J1772"
+    ],
     "stations": 5000,
     "coverage": "Nationwide",
-    "applyUrl": "https://shellrecharge.com"
+    "applyUrl": "https://shellrecharge.com",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "circle-k",
     "name": "Circle K",
     "type": "DC Fast",
-    "pricePerKwh": 0.36,
+    "pricePerKwh": 0.4,
     "pricePerMin": null,
     "pricePerSession": null,
     "membership": false,
     "maxKw": 100,
-    "connectors": ["CCS", "CHAdeMO"],
+    "connectors": [
+      "CCS",
+      "CHAdeMO"
+    ],
     "stations": 1500,
     "coverage": "Nationwide",
-    "applyUrl": "https://www.circlek.com/ev-charging"
+    "applyUrl": "https://www.circlek.com/ev-charging",
+    "lastUpdated": "2026-04-22"
   },
   {
     "slug": "flo",
     "name": "Flo",
     "type": "Both",
-    "pricePerKwh": 0.33,
+    "pricePerKwh": 0.37,
     "pricePerMin": 0.05,
     "pricePerSession": null,
     "membership": true,
     "maxKw": 50,
-    "connectors": ["CCS", "J1772"],
+    "connectors": [
+      "CCS",
+      "J1772"
+    ],
     "stations": 4000,
     "coverage": "North America",
-    "applyUrl": "https://www.flo.com"
+    "applyUrl": "https://www.flo.com",
+    "lastUpdated": "2026-04-22"
   }
 ]
